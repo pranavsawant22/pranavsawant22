@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavsawant22
-- 👀 I’m interested in data structurs and algorithms
+- 👀 I’m interested in data structures and algorithms
 - 🌱 I’m currently learning Electronics and telecommunications
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me on github...
